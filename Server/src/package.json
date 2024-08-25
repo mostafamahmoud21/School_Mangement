@@ -8,9 +8,17 @@
     "mysql2": "^3.11.0"
   },
   "scripts": {
-   "start": "node index.js"
+    "start": "node index.js"
   },
   "engines": {
     "node": "18.x"
-  }
+  },
+  "name": "src",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
